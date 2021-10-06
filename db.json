@@ -16,14 +16,14 @@
       { "id": 5, "userName": "Admin", "pwd": "Admin@pass" }     
   ],
   "products":[
-      { "id": 1, "projectVersion": "CSRC 2.16", "estimation": "1@gmil.com" },
-      { "id": 2, "projectVersion": "CSRC 2.15", "estimation": "2@gmil.com" },
-      { "id": 3, "projectVersion": "CSRC 2.14", "estimation": "3@gmil.com" },
-      { "id": 4, "projectVersion": "CSRC 2.13", "estimation": "4@gmil.com" },
-      { "id": 5, "projectVersion": "CSRC 2.13", "estimation": "5@gmil.com" },
-      { "id": 6, "projectVersion": "SSM 2.11", "estimation": "6@gmil.com" },
-      { "id": 7, "projectVersion": "SkillsheetManager 2.16", "estimation": "7@gmil.com" },
-      { "id": 8, "projectVersion": "EstimationTOol 2.16", "estimation": "8@gmil.com" }
+      { "id": 1, "projectVersion": "CSRC 2.16", "estimation": "1" },
+      { "id": 2, "projectVersion": "CSRC 2.15", "estimation": "5" },
+      { "id": 3, "projectVersion": "CSRC 2.14", "estimation": "12" },
+      { "id": 4, "projectVersion": "CSRC 2.13", "estimation": "4" },
+      { "id": 5, "projectVersion": "CSRC 2.13", "estimation": "5.5" },
+      { "id": 6, "projectVersion": "SSM 2.11", "estimation": "10" },
+      { "id": 7, "projectVersion": "SkillsheetManager 2.16", "estimation": "10" },
+      { "id": 8, "projectVersion": "EstimationTOol 2.16", "estimation": "8" }
   ],
 
     "pointList":[
