@@ -7,7 +7,9 @@
       { "id": 3, "userName": "User2", "isAdmin": false,"email":"b@gmail.com" },
       { "id": 3, "userName": "User3", "isAdmin": false,"email":"b@gmail.com" },
       { "id": 3, "userName": "User5", "isAdmin": false,"email":"b@gmail.com" },
-      { "id": 3, "userName": "User6", "isAdmin": false,"email":"b@gmail.com" }
+      { "id": 3, "userName": "User6", "isAdmin": false,"email":"b@gmail.com" },
+     { "id": 3, "userName": "Manoj", "isAdmin": false,"email":"b@gmail.com" },
+     { "id": 3, "userName": "GaurvbActy", "isAdmin": false,"email":"b@gmail.com" }
   ],
   "passwords":[
       { "id": 1, "userName": "Gourav", "pwd": "131019" },
